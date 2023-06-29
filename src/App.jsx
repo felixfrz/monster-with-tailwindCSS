@@ -29,6 +29,7 @@ function App() {
 	};
 	return (
 		<div className=''>
+		<h1 className=' font-bigelow mt-16 mb-16 text-9xl text-teal-400 font-bold'>Monsters Roboto</h1>
 			<div className=' my-5'>
 				<SearchBox
 					handleSearch={handleSearch}

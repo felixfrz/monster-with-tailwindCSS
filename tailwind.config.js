@@ -8,6 +8,7 @@ export default {
 			// }
 			fontFamily: {
 				body: ['Nunito'],
+				bigelow: ['Bigelow Rules'],
 			},
 		},
 	},
