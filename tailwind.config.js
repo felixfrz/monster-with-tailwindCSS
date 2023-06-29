@@ -6,6 +6,9 @@ export default {
 			// colors:{
 			// 	frz:'#45d65f'
 			// }
+			fontFamily: {
+				body: ['Nunito'],
+			},
 		},
 	},
 	plugins: [],
